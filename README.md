@@ -7,7 +7,7 @@ I'm a final-year **Robotics & Artificial Intelligence** student fascinated by th
 - **Robotics & Simulation:** ROS2, Gazebo, RViz, SLAM
 - **Computer Vision:** Python, OpenCV, MediaPipe
 - **Design & CAD:** NX Siemens, SolidWorks, CAD/CAM
-- **Industrial Automation:** PLC
+
 
 ### 🔭 What am I working on?
 - **Final Year Project:** Automating a production line for Shree by implementing a PLC-based system for timely cutting operations.
