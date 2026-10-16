@@ -11,7 +11,7 @@ I'm a final-year **Robotics & Artificial Intelligence** student fascinated by th
 
 ### 🔭 What am I working on?
 - **Final Year Project:** Automating a production line for Shree by implementing a PLC-based system for timely cutting operations.
-- **Current Explorations:** Building simulations using ROS2 and Gazebo, learning about ADAS (Advanced Driver Assistance Systems), and designing hardware using NX Siemens and SolidWorks.
+- **Current Explorations:** Building simulations using ROS2 and Gazebo, learning and designing hardware using NX Siemens and SolidWorks.
 
 ### 📫 How to reach me
 - **Email:** [edu.bhaktidhage@gmail.com](mailto:edu.bhaktidhage@gmail.com)
